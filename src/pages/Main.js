@@ -7,6 +7,7 @@ class Main extends React.Component {
     return (
       <>
         <Header />
+        <h1>Home</h1>
       </>
     );
   }
