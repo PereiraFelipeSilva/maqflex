@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../../components/Header';
+import Footer from '../../components/Footer';
 
 export default function ForceRb() {
 
@@ -7,6 +8,7 @@ export default function ForceRb() {
     <>
       <Header />
       <h1>Linha Force Rb</h1>
+      <Footer />
     </>
   );
 }

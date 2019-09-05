@@ -1,0 +1,30 @@
+.div-footer-1 nav {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.div-footer-1 nav ul {
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  background: #666;
+}
+.selo-footer {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: -30%;
+  left: 80%;
+}
+.div-footer-2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  background: #ECECEC;
+}
+.div-footer-2 p {
+  font-size: 14px;
+  color: #000;
+}

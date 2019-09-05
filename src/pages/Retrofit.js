@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 export default function Retrofit() {
 
@@ -9,6 +10,7 @@ export default function Retrofit() {
       <p>
         Reforme o seu equipamento na MAQ FLEX!
       </p>
+      <Footer />
     </>
   );
 }

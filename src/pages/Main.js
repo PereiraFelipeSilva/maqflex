@@ -6,6 +6,7 @@ import sectionImg1 from '../assets/impressora-etiquetas.jpg';
 import sectionImg2 from '../assets/impressora-flexografica-industria.jpg';
 import sectionImg3 from '../assets/maquina-de-rotulos.jpg';
 import sectionImg4 from '../assets/maquina-rotulos-cosmeticos.jpg';
+import Footer from '../components/Footer';
 
 class Main extends React.Component {
 
@@ -52,12 +53,8 @@ class Main extends React.Component {
           </ul>
         </section>
 
-        <div className="newsletter">
-
-        </div>
-
         <footer>
-
+          <Footer />
         </footer>
       </>
     );
