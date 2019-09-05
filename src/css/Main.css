@@ -1,0 +1,51 @@
+.presentational-section {
+  display: flex;
+  justify-content: center;
+}
+.presentational-section-div {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  padding: 4%;
+  border-bottom: 1px solid #999;
+  margin-bottom: 5em;
+}
+.presentational-section-div h2 {
+  font-size: 24px;
+  text-align: center;
+  color: #000;
+}
+.presentational-section-div p {
+  font-size: 18px;
+  text-align: center;
+  color: #4d4d4d;
+}
+.section-maquinas {
+  width: 100%;
+}
+.section-maquinas-list {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+.section-maquinas-list li {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+}
+.section-maquinas-list li h3 {
+  margin-top: 5%;
+  font-size: 18px;
+  text-align: center;
+  color: #406FB3;
+}
+.section-maquinas-list li p {
+  font-size: 14px;
+  text-align: center;
+  color: #000;
+}
