@@ -6,7 +6,7 @@ export default function Empresa() {
   return (
     <>
       <Header />
-      <h1>FABRICAÇÃO DE IMPRESSORAS FLEXOGRÁFICAS</h1>
+        <h1>FABRICAÇÃO DE IMPRESSORAS FLEXOGRÁFICAS</h1>
     </>
   );
 }
