@@ -8,6 +8,7 @@ export default function Contato() {
     <>
       <Header />
       <h1>Solicite um contato</h1>
+      <input type="button" value="oi" style={{cursor: "default"}} ></input>
       <Footer />
     </>
   );

@@ -12,10 +12,10 @@ export default function Footer() {
           <nav>
             <ul>
               <li className="nav-item"> <Link to="/empresa"> A MaqFlex </Link> </li> |
-              <li className="nav-item"> <Link to="acessorios"> Acessórios </Link> </li> |
-              <li className="nav-item"> <Link to="assistencia"> Assistência </Link> </li> |
-              <li className="nav-item"> <Link to="retrofit"> Retrofit </Link> </li> |
-              <li className="nav-item"> <Link to="contato"> Contato </Link> </li>
+              <li className="nav-item"> <Link to="/acessorios"> Acessórios </Link> </li> |
+              <li className="nav-item"> <Link to="/assistencia"> Assistência </Link> </li> |
+              <li className="nav-item"> <Link to="/retrofit"> Retrofit </Link> </li> |
+              <li className="nav-item"> <Link to="/contato"> Contato </Link> </li>
             </ul>
           <img src={seloDesde} alt="Desde 1984" className="selo-footer" />
           </nav>
