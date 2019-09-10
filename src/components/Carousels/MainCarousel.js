@@ -22,6 +22,7 @@ export default function MainCarousel() {
       direction={direction}
       onSelect={handleSelect}
       interval="2300"
+      pauseOnHover={false}
     >
       <Carousel.Item>
         <img className="d-block w-100 carousel-item" src={BannerHome1} alt="first slide" />
