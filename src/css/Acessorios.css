@@ -1,0 +1,21 @@
+.secao-acessorios {
+  width: 85%;
+  margin-bottom: 0;
+  padding: 2%;
+  border-bottom: 1px solid #999
+}
+.secao-acessorios p {
+  font-size: 1.3em;
+  text-align: center;
+  color: #000;
+}
+.secao-acessorios p span {
+  color: #0071BF;
+  font-weight: bold;
+}
+.secao-acessorios img {
+  max-width: 100%;
+}
+.secao-acessorios p {
+  width: 100%;
+}
