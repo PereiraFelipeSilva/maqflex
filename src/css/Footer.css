@@ -12,6 +12,9 @@
   background: #666;
   margin-bottom: 0;
 }
+footer .nav-item a {
+  color: #fff;
+}
 .selo-footer {
   width: 65px;
   height: 65px;
